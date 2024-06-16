@@ -8,7 +8,7 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.FxRates"
+        applicationId = "com.example.fxrates"
         minSdk = 26
         targetSdk = 34
         versionCode = 1
